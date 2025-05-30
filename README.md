@@ -6,7 +6,7 @@ This project demonstrates how to deploy a static website to **Amazon S3** using 
 
 ## 🔗 Live Demo
 
-👉 [http://jpz-static-site-demo.s3-website-us-east-1.amazonaws.com/](http://jpz-static-site-demo.s3-website-us-east-1.amazonaws.com/)
+[🔗 Live Demo (via CloudFront)](https://d3d14snt9uqisf.cloudfront.net/)
 
 Hosted entirely on a public S3 bucket using AWS Free Tier resources.
 
